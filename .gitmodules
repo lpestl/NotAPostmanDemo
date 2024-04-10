@@ -1,0 +1,3 @@
+[submodule "Plugins/NotAPostman"]
+	path = Plugins/NotAPostman
+	url = https://github.com/lpestl/NotAPostman
